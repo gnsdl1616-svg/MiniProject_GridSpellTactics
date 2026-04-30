@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/01.Scenes/Boot.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/01.Scenes/Title.unity
+    guid: ad8d4f9b18e922144912ea9fd50ef5bd
+  - enabled: 1
+    path: Assets/01.Scenes/AdventureMap_2D.unity
+    guid: 0925ccd702fcdf842abc2cdf9540a887
+  - enabled: 1
+    path: Assets/01.Scenes/Battle_Encounter.unity
+    guid: 597217de22cc3ac4d9a31b18458d4b1a
+  - enabled: 1
+    path: Assets/01.Scenes/Reward_Choice.unity
+    guid: 847da2f749c9ecb499b58127046e52b3
+  - enabled: 1
+    path: Assets/01.Scenes/Deckbuilding_Hub.unity
+    guid: 635a61f3eec013247ace13e71aed4876
+  - enabled: 1
+    path: Assets/01.Scenes/Result.unity
+    guid: e6047b7b8229dd04085dffa5213fc852
+  m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
